@@ -1,0 +1,3 @@
+source;share/butler_robot/hook/pythonpath.ps1
+source;share/butler_robot/hook/pythonpath.dsv
+source;share/butler_robot/hook/pythonpath.sh

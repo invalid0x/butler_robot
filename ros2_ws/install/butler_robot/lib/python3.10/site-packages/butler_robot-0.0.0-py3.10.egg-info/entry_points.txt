@@ -1,0 +1,3 @@
+[console_scripts]
+butler_node = butler_robot.butler_node:main
+
